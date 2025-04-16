@@ -112,21 +112,7 @@
     "output": 1.1
   },
   {
-    "model": "DeepSeek-V3-0324",
-    "type": "tokens",
-    "channel_type": 28,
-    "input": 0.27,
-    "output": 1.1
-  },
-  {
     "model": "deepseek-reasoner",
-    "type": "tokens",
-    "channel_type": 28,
-    "input": 0.55,
-    "output": 2.19
-  },
-  {
-    "model": "DeepSeek-R1",
     "type": "tokens",
     "channel_type": 28,
     "input": 0.55,
@@ -176,13 +162,6 @@
   },
   {
     "model": "meta-llama/llama-4-scout-17b-16e-instruct",
-    "type": "tokens",
-    "channel_type": 31,
-    "input": 0,
-    "output": 0
-  },
-  {
-    "model": "Llama-3.3-70B",
     "type": "tokens",
     "channel_type": 31,
     "input": 0,
