@@ -1,0 +1,380 @@
+[
+  {
+    "model": "gpt-4.1",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "gpt-4.1-2025-04-14",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "gpt-4.1-mini",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "gpt-4.1-mini-2025-04-14",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "gpt-4.1-nano",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "gpt-4.1-nano-2025-04-14",
+    "type": "tokens",
+    "channel_type": 1,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "veo-2.0-generate-001",
+    "type": "tokens",
+    "channel_type": 11,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "imagen-3.0-generate-002",
+    "type": "tokens",
+    "channel_type": 11,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "Gemini 2.5 Pro Experimental",
+    "type": "tokens",
+    "channel_type": 11,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "gemini-1.5-flash",
+    "type": "tokens",
+    "channel_type": 11,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "gemini-1.5-flash-8b",
+    "type": "tokens",
+    "channel_type": 11,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "gemini-1.5-pro",
+    "type": "tokens",
+    "channel_type": 11,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "gemini-2.0-flash",
+    "type": "tokens",
+    "channel_type": 11,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "gemini-2.0-flash-lite",
+    "type": "tokens",
+    "channel_type": 11,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "GLM-4-Flash",
+    "type": "tokens",
+    "channel_type": 16,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "deepseek-chat",
+    "type": "tokens",
+    "channel_type": 28,
+    "input": 0.27,
+    "output": 1.1
+  },
+  {
+    "model": "DeepSeek-V3-0324",
+    "type": "tokens",
+    "channel_type": 28,
+    "input": 0.27,
+    "output": 1.1
+  },
+  {
+    "model": "deepseek-reasoner",
+    "type": "tokens",
+    "channel_type": 28,
+    "input": 0.55,
+    "output": 2.19
+  },
+  {
+    "model": "DeepSeek-R1",
+    "type": "tokens",
+    "channel_type": 28,
+    "input": 0.55,
+    "output": 2.19
+  },
+  {
+    "model": "qwen-qwq-32b",
+    "type": "tokens",
+    "channel_type": 31,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "whisper-large-v3",
+    "type": "tokens",
+    "channel_type": 31,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "whisper-large-v3-turbo",
+    "type": "tokens",
+    "channel_type": 31,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "llama-3.3-70b-specdec",
+    "type": "tokens",
+    "channel_type": 31,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "distil-whisper-large-v3-en",
+    "type": "tokens",
+    "channel_type": 31,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "llama-3.3-70b-versatile",
+    "type": "tokens",
+    "channel_type": 31,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+    "type": "tokens",
+    "channel_type": 31,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "Llama-3.3-70B",
+    "type": "tokens",
+    "channel_type": 31,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "QwQ-32B",
+    "type": "tokens",
+    "channel_type": 31,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "gpt-4o-all",
+    "type": "tokens",
+    "channel_type": 1001,
+    "input": 0.5,
+    "output": 1.5
+  },
+  {
+    "model": "claude-3-5-sonnet-all",
+    "type": "tokens",
+    "channel_type": 1001,
+    "input": 0.3,
+    "output": 1.5
+  },
+  {
+    "model": "o1-all",
+    "type": "times",
+    "channel_type": 1001,
+    "input": 0.06,
+    "output": 0.06
+  },
+  {
+    "model": "o1-mini-all",
+    "type": "times",
+    "channel_type": 1001,
+    "input": 0.015,
+    "output": 0.015
+  },
+  {
+    "model": "o1-pro-all",
+    "type": "times",
+    "channel_type": 1001,
+    "input": 0.12,
+    "output": 0.12
+  },
+  {
+    "model": "o3-mini-high-all",
+    "type": "times",
+    "channel_type": 1001,
+    "input": 0.015,
+    "output": 0.015
+  },
+  {
+    "model": "claude-3-7-sonnet-20250219",
+    "type": "tokens",
+    "channel_type": 1001,
+    "input": 0.3,
+    "output": 1.5
+  },
+  {
+    "model": "claude-3-7-sonnet-thinking",
+    "type": "tokens",
+    "channel_type": 1001,
+    "input": 0.3,
+    "output": 1.5
+  },
+  {
+    "model": "gpt-4o-image",
+    "type": "times",
+    "channel_type": 1001,
+    "input": 0.004,
+    "output": 0.004
+  },
+  {
+    "model": "gpt-4o-image-vip",
+    "type": "times",
+    "channel_type": 1001,
+    "input": 0.01,
+    "output": 0.01
+  },
+  {
+    "model": "gpt-4o-mini",
+    "type": "tokens",
+    "channel_type": 1001,
+    "input": 0.015,
+    "output": 0.06
+  },
+  {
+    "model": "gpt-4.1",
+    "type": "tokens",
+    "channel_type": 1001,
+    "input": 0.2,
+    "output": 0.8
+  },
+  {
+    "model": "gpt-4.1-mini",
+    "type": "tokens",
+    "channel_type": 1001,
+    "input": 0.04,
+    "output": 0.16
+  },
+  {
+    "model": "gpt-4.1-nano",
+    "type": "tokens",
+    "channel_type": 1001,
+    "input": 0.01,
+    "output": 0.04
+  },
+  {
+    "model": "OpenAI-gpt-4.1",
+    "type": "tokens",
+    "channel_type": 1001,
+    "input": 2.26,
+    "output": 9.04
+  },
+  {
+    "model": "OpenAI-gpt-4.1-mini",
+    "type": "tokens",
+    "channel_type": 1001,
+    "input": 0.46,
+    "output": 1.84
+  },
+  {
+    "model": "OpenAI-gpt-4.1-nano",
+    "type": "tokens",
+    "channel_type": 1001,
+    "input": 0.114,
+    "output": 0.456
+  },
+  {
+    "model": "grok-2-1212",
+    "type": "tokens",
+    "channel_type": 1002,
+    "input": 2,
+    "output": 10
+  },
+  {
+    "model": "grok-2-vision-1212",
+    "type": "tokens",
+    "channel_type": 1002,
+    "input": 2,
+    "output": 10
+  },
+  {
+    "model": "grok-3-beta",
+    "type": "tokens",
+    "channel_type": 1002,
+    "input": 3,
+    "output": 15
+  },
+  {
+    "model": "grok-3-fast-beta",
+    "type": "tokens",
+    "channel_type": 1002,
+    "input": 5,
+    "output": 25
+  },
+  {
+    "model": "grok-3-mini-beta",
+    "type": "tokens",
+    "channel_type": 1002,
+    "input": 0.3,
+    "output": 0.5
+  },
+  {
+    "model": "grok-3-mini-fast-beta",
+    "type": "tokens",
+    "channel_type": 1002,
+    "input": 0.6,
+    "output": 4
+  },
+  {
+    "model": "grok-beta",
+    "type": "tokens",
+    "channel_type": 1002,
+    "input": 5,
+    "output": 15
+  },
+  {
+    "model": "grok-vision-beta",
+    "type": "tokens",
+    "channel_type": 1002,
+    "input": 5,
+    "output": 15
+  },
+  {
+    "model": "grok-2-image-1212",
+    "type": "times",
+    "channel_type": 1002,
+    "input": 0.07,
+    "output": 0.07
+  }
+]
