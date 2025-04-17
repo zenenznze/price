@@ -182,46 +182,11 @@
     "output": 0
   },
   {
-    "model": "gpt-4o-all",
-    "type": "tokens",
-    "channel_type": 1001,
-    "input": 0.5,
-    "output": 1.5
-  },
-  {
     "model": "claude-3-5-sonnet-all",
     "type": "tokens",
     "channel_type": 1001,
     "input": 0.3,
     "output": 1.5
-  },
-  {
-    "model": "o1-all",
-    "type": "times",
-    "channel_type": 1001,
-    "input": 0.06,
-    "output": 0.06
-  },
-  {
-    "model": "o1-mini-all",
-    "type": "times",
-    "channel_type": 1001,
-    "input": 0.015,
-    "output": 0.015
-  },
-  {
-    "model": "o1-pro-all",
-    "type": "times",
-    "channel_type": 1001,
-    "input": 0.12,
-    "output": 0.12
-  },
-  {
-    "model": "o3-mini-high-all",
-    "type": "times",
-    "channel_type": 1001,
-    "input": 0.015,
-    "output": 0.015
   },
   {
     "model": "claude-3-7-sonnet-20250219",
@@ -242,21 +207,42 @@
     "type": "times",
     "channel_type": 1001,
     "input": 0.004,
-    "output": 0.004
+    "output": 0
   },
   {
     "model": "gpt-4o-image-vip",
     "type": "times",
     "channel_type": 1001,
     "input": 0.01,
-    "output": 0.01
+    "output": 0
   },
   {
-    "model": "gpt-4o-mini",
-    "type": "tokens",
+    "model": "o1-all",
+    "type": "times",
+    "channel_type": 1001,
+    "input": 0.06,
+    "output": 0
+  },
+  {
+    "model": "o1-all",
+    "type": "times",
+    "channel_type": 1001,
+    "input": 0.06,
+    "output": 0
+  },
+  {
+    "model": "o1-mini-all",
+    "type": "times",
     "channel_type": 1001,
     "input": 0.015,
-    "output": 0.06
+    "output": 0
+  },
+  {
+    "model": "o1-pro-all",
+    "type": "times",
+    "channel_type": 1001,
+    "input": 0.12,
+    "output": 0
   },
   {
     "model": "gpt-4.1",
@@ -280,6 +266,27 @@
     "output": 0.04
   },
   {
+    "model": "gpt-4o-mini",
+    "type": "tokens",
+    "channel_type": 1001,
+    "input": 0.015,
+    "output": 0.06
+  },
+  {
+    "model": "o3-mini-high-all",
+    "type": "times",
+    "channel_type": 1001,
+    "input": 0.015,
+    "output": 0
+  },
+  {
+    "model": "gpt-4o-all",
+    "type": "tokens",
+    "channel_type": 1001,
+    "input": 0.5,
+    "output": 1.5
+  },
+  {
     "model": "OpenAI-gpt-4.1",
     "type": "tokens",
     "channel_type": 1001,
@@ -299,6 +306,20 @@
     "channel_type": 1001,
     "input": 0.114,
     "output": 0.456
+  },
+  {
+    "model": "OpenAI-o3",
+    "type": "tokens",
+    "channel_type": 1001,
+    "input": 11,
+    "output": 44
+  },
+  {
+    "model": "OpenAI-o4-mini",
+    "type": "tokens",
+    "channel_type": 1001,
+    "input": 1.21,
+    "output": 58.564
   },
   {
     "model": "grok-2-1212",
@@ -362,5 +383,75 @@
     "channel_type": 1002,
     "input": 0.07,
     "output": 0.07
+  },
+  {
+    "model": "deepseek/deepseek-chat-v3-0324:free",
+    "type": "tokens",
+    "channel_type": 1003,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "qwen/qwq-32b:free",
+    "type": "tokens",
+    "channel_type": 1003,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "deepseek/deepseek-r1:free",
+    "type": "tokens",
+    "channel_type": 1003,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "meta-llama/llama-3.3-70b-instruct:free",
+    "type": "tokens",
+    "channel_type": 1003,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "meta-llama/llama-4-maverick:free",
+    "type": "tokens",
+    "channel_type": 1003,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "meta-llama/llama-4-scout:free",
+    "type": "tokens",
+    "channel_type": 1003,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "arliai/qwq-32b-arliai-rpr-v1:free",
+    "type": "tokens",
+    "channel_type": 1003,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "agentica-org/deepcoder-14b-preview:free",
+    "type": "tokens",
+    "channel_type": 1003,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "gpt-4o",
+    "type": "tokens",
+    "channel_type": 1004,
+    "input": 1,
+    "output": 4
+  },
+  {
+    "model": "gpt-4o-mini",
+    "type": "tokens",
+    "channel_type": 1004,
+    "input": 0.125,
+    "output": 0.5
   }
 ]
