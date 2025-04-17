@@ -105,6 +105,20 @@
     "output": 0
   },
   {
+    "model": "GLM-4-Flash-250414",
+    "type": "tokens",
+    "channel_type": 16,
+    "input": 0,
+    "output": 0
+  },
+  {
+    "model": "GLM-Z1-Flash",
+    "type": "tokens",
+    "channel_type": 16,
+    "input": 0,
+    "output": 0
+  },
+  {
     "model": "deepseek-chat",
     "type": "tokens",
     "channel_type": 28,
@@ -162,13 +176,6 @@
   },
   {
     "model": "meta-llama/llama-4-scout-17b-16e-instruct",
-    "type": "tokens",
-    "channel_type": 31,
-    "input": 0,
-    "output": 0
-  },
-  {
-    "model": "QwQ-32B",
     "type": "tokens",
     "channel_type": 31,
     "input": 0,
