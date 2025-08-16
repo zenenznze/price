@@ -1,3 +1,9 @@
 [
-  
+  {
+    "model": "gpt-4o-mini",
+    "type": "tokens",
+    "channel_type": 1004,
+    "input": 0.0625,
+    "output": 0.25
+  }
 ]
